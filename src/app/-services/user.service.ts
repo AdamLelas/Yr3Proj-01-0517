@@ -38,3 +38,12 @@ export class UserService {
         }
     }
 }
+
+
+
+/*
+* 
+* Code Based on example from:
+* URL: http://jasonwatmore.com/post/2016/09/29/angular-2-user-registration-and-login-example-tutorial
+* Last Accessed 13/05/2017
+*/
